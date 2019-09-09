@@ -14,5 +14,5 @@ The code is compatible with Python 2.7 and 3. The following dependencies are nee
 ```NumPy
 sklean
 OpenCV
-Pillow ```  
+Pillow 
 Additionally, feature generation requires TensorFlow-1.4.0.
