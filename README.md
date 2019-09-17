@@ -7,8 +7,7 @@ Run YOLOv3_fps_annotation with cmd :
 (Optional) Convert the Darknet YOLO model to a Keras model by yourself:
 
  please download the weights at first from yolo website. 
- ```python convert.py yolov3.cfg yolov3.weights model_data/yolo.h5```  
-Dependencies
+
 The code is compatible with Python 2.7 and 3. The following dependencies are needed to run the tracker:
 
 ```NumPy
